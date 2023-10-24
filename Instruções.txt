@@ -1,0 +1,7 @@
+Olá professor bão?
+Decidimos refazer boa parte do código HTML anterior, pois vimos que não tinha nada a ver com loja virtual. Fizemos bem simples a ideia de sistema de gestão.
+No caso a tela de usuário "register.html" seria a primeira página;
+Seguida da "login.html", após a criação da conta vc será redirecionado a página de Login;
+Após o login vc terá acesso a página principal.
+
+No caso, optamos por não popular muito as tabelas pois ficaria muito poluido.
